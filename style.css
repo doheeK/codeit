@@ -1,0 +1,34 @@
+/*머리말*/
+h1{
+  text-align: center;
+  margin-top: 75px;
+  margin-bottom: 75px;
+}
+/*영화소개*/
+.movie{
+  background-color: #eee;
+  border-radius: 20px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding: 50px;
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.movie .title{
+  text-align: center;
+}
+.movie .poster{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+/*꼬리말*/
+.footer{
+  background-color: dodgerblue;
+  color: white;
+  text-align: center;
+  font-size: 30px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
